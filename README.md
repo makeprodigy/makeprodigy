@@ -6,7 +6,16 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/pushpendra-parihar-1410b8323" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=makeprodigy&show_icons=true&locale=en" alt="makeprodigy" /></p>
+<p>
+    <a target="_blank" href="https://www.linkedin.com/in/pushpendra-parihar-1410b8323" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+    </a>
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+<p>
+    <img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=makeprodigy&show_icons=true&locale=en&theme=dark" alt="makeprodigy" />
+</p>
+
+<img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeprodigy&layout=compact&theme=dark" />
+
+<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg" style="width: 100%;" />
