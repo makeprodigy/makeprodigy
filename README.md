@@ -1,5 +1,5 @@
 <h1>Exploring Web Development</h1>
-<p>A passionate developer</p>
+<p>A passionate and dedicated programmer with a strong problem-solving mindset, eager to apply my skills in real-world projects and contribute value as a proactive team member.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
