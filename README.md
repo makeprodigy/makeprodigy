@@ -6,6 +6,11 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
       </a>
