@@ -1,4 +1,4 @@
-<h1>Exploring Web Development</h1>
+<h1>Exploring Fullstack Web Development</h1>
 <p>Fullstack developer with a strong problem-solving mindset, driven by curiosity and a passion for continuous learning. Skilled in translating design into responsive, user-friendly interfaces and applying modern web technologies to real-world projects. Known for being a proactive, value-driven team member who contributes effectively to collaborative development environments.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
