@@ -23,7 +23,7 @@
 <h2>⚡️ Where to find me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/pushpendra-parihar-1410b8323" target="_blank">
+  <a href="www.linkedin.com/in/pushpendra-parihar2025" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
 </p>
