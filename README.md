@@ -1,5 +1,5 @@
 <h1>exploring Computer Science</h1>
-<p>I am a Fullstack developer with a strong problem-solving mindset, driven by curiosity and a passion for continuous learning.I am Skilled in translating design into responsive, user-friendly interfaces and applying modern web technologies to real-world projects. Known for being a proactive, value-driven team member who contributes effectively to collaborative development environments.</p>
+<p>Skilled in building responsive, user-friendly interfaces with JavaScript, TypeScript, React, and CSS, while leveraging modern frameworks like Node.js, Express, and MongoDB for backend development. Strong foundation in data structures, databases (SQL/MySQL), and UI/UX tools like Material UI, Figma and Tailwind. Passionate about creating impactful, scalable applications and continuously growing into a full-stack developer.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
