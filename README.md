@@ -28,8 +28,6 @@
   </a>
 </p>
 
-<p>
-  <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=makeprodigy&show_icons=true&locale=en&theme=dark" alt="makeprodigy" />
-</p>
+
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeprodigy&layout=compact&theme=dark" />
