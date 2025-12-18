@@ -1,5 +1,5 @@
 <h1>exploring Computer Science</h1>
-<p>Skilled in building responsive, user-friendly interfaces with JavaScript, TypeScript, React, and CSS, while leveraging modern frameworks like Node.js, Express, and MongoDB for backend development. Strong foundation in data structures, databases (SQL/MySQL), and UI/UX tools like Material UI, Figma and Tailwind. Passionate about creating impactful, scalable applications and continuously growing into a full-stack developer.</p>
+<p>Full-stack developer skilled in building responsive, user-friendly interfaces with JavaScript, TypeScript, React, and CSS, while leveraging modern frameworks like Node.js, Express, and MongoDB for backend development. Strong foundation in data structures, databases (SQL/MySQL), and UI/UX tools like Material UI, Figma and Tailwind. Passionate about creating impactful, scalable applications.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
