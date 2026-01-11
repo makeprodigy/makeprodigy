@@ -1,5 +1,5 @@
 <h1>Pushpendra  S. Parihar</h1><h3>Major - B.Tech CS & AI <br>Minor - Finance</h3>
-<p>Full-stack developer experienced in building responsive, user-centric web applications using JavaScript/TypeScript, React, and modern CSS. Proficient in backend development with Node.js, Express, and MongoDB, with a strong foundation in Data Structures, SQL/MySQL, and NoSQL/MongoDB databases. Skilled in UI/UX design using Figma, Framer, and modern UI libraries including ShadCN, Aceternity UI, React Bits, and Aceternity, with a focus on building scalable, high-impact solutions.</p>
+<p>Full-stack developer experienced in building responsive, user-centric web applications using JavaScript/TypeScript, Next.js, React, and modern CSS. Proficient in backend development with Node.js, Express, and MongoDB, with a strong foundation in Data Structures, SQL/MySQL, and NoSQL/MongoDB databases. Skilled in UI/UX design using Figma, Framer, and modern UI libraries including ShadCN, Aceternity UI, React Bits, and Aceternity, with a focus on building scalable, high-impact solutions.</p>
 
 <!-- Tech Stack Badges -->
 <p>
