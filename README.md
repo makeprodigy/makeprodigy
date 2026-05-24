@@ -10,9 +10,8 @@
 
 </div>
 
-I build production-grade web applications and intelligent systems end-to-end — from responsive frontends with modern component libraries to backend APIs, ML pipelines, and RAG-based LLM workflows. Strong foundation in data structures, algorithms, and system design principles.
+<h3>I build production-grade web applications and intelligent systems end-to-end — from responsive frontends with modern component libraries to backend APIs, ML pipelines, and RAG-based LLM workflows. Strong foundation in data structures, algorithms, and system design principles.</h3>
 
----
 
 ### Stack
 
@@ -94,7 +93,6 @@ I build production-grade web applications and intelligent systems end-to-end —
 </tr>
 </table>
 
----
 
 ### GitHub Activity
 
@@ -108,18 +106,6 @@ I build production-grade web applications and intelligent systems end-to-end —
 
 </div>
 
----
-
-### Highlights
-
-| | |
-|---|---|
-| **AI / ML** | RAG (LangChain, LangGraph, FAISS, ChromaDB) · scikit-learn · ROC-AUC · AUPRC · SMOTE |
-| **Data** | Tableau dashboards on 345K+ records · ETL pipelines · EDA |
-| **Design** | ShadCN · Aceternity UI · React Bits · v0 |
-| **Practices** | SOLID · Design Patterns · Agile · GitHub Actions · JWT · OAuth 2.0 |
-
----
 
 <div align="center">
 
