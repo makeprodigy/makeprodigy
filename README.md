@@ -2,7 +2,7 @@
 
 <h1>Pushpendra S. Parihar</h1>
 
-**Full-Stack Engineer · AI/ML · B.Tech CS & AI**
+**Full-Stack Engineer · AI/ML · B.Tech CS & AI · Finance**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://next-portfolio-six-orcin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpendra-parihar2025/)
