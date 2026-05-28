@@ -95,9 +95,3 @@
 
 </div>
 
-
-<div align="center">
-
-[![makeprodigy](https://img.shields.io/github/followers/makeprodigy?label=follow%20%40makeprodigy&style=for-the-badge&color=ffffff&labelColor=000000&logo=github)](https://github.com/makeprodigy)
-
-</div>
