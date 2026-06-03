@@ -89,8 +89,6 @@
 
 <img src="https://github-stats-alpha.vercel.app/api?username=makeprodigy&cc=0d1117&tc=ffffff&ic=888888&bc=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=makeprodigy&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=makeprodigy&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" />
 
 </div>
